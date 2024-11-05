@@ -1,0 +1,16 @@
+{
+  "name": "Postman",
+  "version": "1.0.0",
+  "description": "postman works",
+  "main": "index.js",
+  "author": "Alliana",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
